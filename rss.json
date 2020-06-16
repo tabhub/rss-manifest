@@ -13,6 +13,11 @@
             "name": "Lofter",
             "type": "rss",
             "url": "https://rsshub.app/lofter/user/tingtingtingtingzhi"
+        },
+        {
+            "name": "Lofter",
+            "type": "rss",
+            "url": "https://rsshub.app/755/user/akimoto-manatsu"
         }
     ]
 }
