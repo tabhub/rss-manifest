@@ -5,19 +5,49 @@
     "type": "resource",
     "items": [
         {
-            "name": "UP 主动态",
+            "name": "北京空气质量",
             "type": "rss",
-            "url": "https://rsshub.app/bilibili/user/dynamic/2267573"
+            "url": "https://rsshub.app/aqicn/beijing"
         },
         {
-            "name": "Lofter",
+            "name": "Bilibili 番剧",
             "type": "rss",
-            "url": "https://rsshub.app/lofter/user/tingtingtingtingzhi"
+            "url": "https://rsshub.app/bilibili/bangumi/media/9192"
         },
         {
-            "name": "Lofter",
+            "name": "B站每周必看",
             "type": "rss",
-            "url": "https://rsshub.app/755/user/akimoto-manatsu"
+            "url": "https://rsshub.app/bilibili/weekly"
+        },
+        {
+            "name": "Bilibili 排行榜",
+            "type": "rss",
+            "url": "https://rsshub.app/bilibili/ranking/0/3/1"
+        },
+        {
+            "name": "Bilibili 纪录片",
+            "type": "rss",
+            "url": "https://rsshub.app/bilibili/partion/177"
+        },
+        {
+            "name": "Bilibili 电影",
+            "type": "rss",
+            "url": "https://rsshub.app/bilibili/partion/23"
+        },
+        {
+            "name": "富途牛牛",
+            "type": "rss",
+            "url": "https://rsshub.app/futunn/highlights"
+        },
+        {
+            "name": "新浪财经",
+            "type": "rss",
+            "url": "https://rsshub.app/sina/finance"
+        },
+        {
+            "name": "HackNews",
+            "type": "rss",
+            "url": "https://rsshub.app/hackernews/best/story"
         }
     ]
 }
