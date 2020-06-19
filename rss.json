@@ -10,6 +10,11 @@
             "url": "https://rsshub.app/aqicn/beijing"
         },
         {
+            "name": "北京疫情",
+            "type": "tabhub-app",
+            "url": "https://news.qq.com/zt2020/page/feiyan.htm#/area?pool=bj&ADTAG=wxkyk&nojump=2&style=1&channelId="
+        },
+        {
             "name": "B站每周必看",
             "type": "rss",
             "url": "https://rsshub.app/bilibili/weekly"
