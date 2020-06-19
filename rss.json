@@ -10,11 +10,6 @@
             "url": "https://rsshub.app/aqicn/beijing"
         },
         {
-            "name": "Bilibili 番剧",
-            "type": "rss",
-            "url": "https://rsshub.app/bilibili/bangumi/media/9192"
-        },
-        {
             "name": "B站每周必看",
             "type": "rss",
             "url": "https://rsshub.app/bilibili/weekly"
