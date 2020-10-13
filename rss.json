@@ -56,7 +56,7 @@
         {
             "name": "HackNews Daily",
             "type": "rss",
-            "url": "http://gh-feed.imsun.net/headllines/hackernews-daily/issues"
+            "url": "https://rsshub.app/github/issue/headllines/hackernews-daily/all"
         }
     ]
 }
