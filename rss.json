@@ -56,7 +56,7 @@
         {
             "name": "HackNews Daily",
             "type": "rss",
-            "url": "https://raw.githubusercontent.com/tabhub/rss-manifest/master/199it.xml"
+            "url": "https://raw.githubusercontent.com/tabhub/rss-feeds/main/data/hn-daily/latest.xml?token=AAMU56UPX6G5GZVF3M3L5AS7SLSL6"
         }
     ]
 }
