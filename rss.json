@@ -62,6 +62,11 @@
             "name": "Perl Weekly",
             "type": "rss",
             "url": "https://raw.githubusercontent.com/tabhub/rss-feeds/main/data/perl-weekly/latest.xml"
+        },
+        {
+            "name": "The New York Times",
+            "type": "rss",
+            "url": "https://rsshub.app/nytimes/dual"
         }
     ]
 }
