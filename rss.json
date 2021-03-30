@@ -20,7 +20,7 @@
             "name": "B站每周必看",
             "type": "rss",
             "background_style": "#778463",
-            "url": "https://rsshub.app/bilibili/weekly"
+            "url": "https://raw.githubusercontent.com/tabhub/rss-manifest/master/weekly.xml"
         },
         {
             "name": "Bilibili 排行榜",
