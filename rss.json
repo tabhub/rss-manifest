@@ -5,6 +5,11 @@
     "type": "resource",
     "items": [
         {
+            "name": "GitHub Developer",
+            "type": "rss",
+            "url": "https://developer.github.com/changes.atom"
+        },
+        {
             "name": "北京空气质量",
             "type": "rss",
             "background_style": "#f1f3f5",
